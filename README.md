@@ -9,4 +9,4 @@ I am Tejas Thonge..!
 - 📫 How to reach me:[linkdin -@Tejas Thonge](https://www.linkedin.com/in/tejas-thonge-patil-b2625b227/) ; [instagram - @amar_thonge_patil](https://www.instagram.com/p/Chu7TjjPMWP/?utm_source=ig_web_copy_link) ; [Facebook -@अमर ठोंगे](https://www.facebook.com/amarraj.thonge)
 - 😄 Pronouns: He/His
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=tejasthonge&&show_icons=true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
