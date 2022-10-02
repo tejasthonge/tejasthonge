@@ -1,5 +1,6 @@
-### Ram Ram..! 🕉️🙏🚩,
-I am Tejas Thonge..!
+<hr></hr>
+
+### Ram Ram..! 🕉️🙏🚩,I am <h1>Tejas Thonge..!</h1>
 
 - 🔭 I’m currently working on web-project.
 - 🌱 I’m currently learning web-development as well all cooding lan.
@@ -10,3 +11,7 @@ I am Tejas Thonge..!
 - 😄 Pronouns: He/His
 
 <img src="https://github-readme-stats.vercel.app/api?username=tejasthonge&&show_icons=true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+### Snake enating my Contribution..
+![snake gif](https://github.com/tejasthonge/tejasthonge/blob/output/github-contribution-grid-snake.gif)
+<hr></hr>
