@@ -8,16 +8,16 @@
 
 - 🌱 I’m currently learning **Flutter App Development**
 
-- 👨‍💻 My Portfolio is here : 
+- 👨‍💻 My Portfolio is here : **<a href="https://tejasthonge.github.io/amar/" target="_blank">Portfolio</a>**
 
 - 💬 Ask me about **Java , Dart and Data Structure ,flutter**
 
-- 📫 How to reach me : **<a href="[https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox](https://mail.google.com/mail/u/0/#inbox?compose=XBcJlKtKCFzQGRSMdSQWpGrDdXmVCzkrCRjlhrhlZwQWtCwngRwrfsKsrFXBkrnlZXXNpXXqkFWwHvXQ)" target="_blank">Email</a>**
+- 📫 How to reach me : **<a href="[https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox](https://mail.google.com/mail/u/0/#inbox)" target="_blank">Email</a>**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/amarraj6767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarraj6767" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/tejasthonge/](https://www.linkedin.com/in/tejasthonge/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejasthonge/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejasthonge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejasthonge/" height="30" width="40" /></a>
 <a href="https://instagram.com/amar_rajendra_thonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar_rajendra_thonge" height="30" width="40" /></a>
 
 
