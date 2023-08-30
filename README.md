@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java , Dart and Data Structure ,flutter**
 
-- 📫 How to reach me : **<a href="https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox" target="_blank">Email</a>**
+- 📫 How to reach me : **<a href="[https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox](https://mail.google.com/mail/u/0/#inbox?compose=XBcJlKtKCFzQGRSMdSQWpGrDdXmVCzkrCRjlhrhlZwQWtCwngRwrfsKsrFXBkrnlZXXNpXXqkFWwHvXQ)" target="_blank">Email</a>**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
