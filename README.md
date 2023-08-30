@@ -19,9 +19,9 @@
 
 - 👨‍💻 My Portfolio is here : **<a href="https://tejasthonge.github.io/amar/" target="_blank">Portfolio</a>**
 
-- 💬 Ask me about **Java , Dart and Data Structure ,flutter**
+- 💬 Ask me about **Java , Dart , Data Structure , Flutter**
 
-- 📫 How to reach me : **<a href="[https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox](https://mail.google.com/mail/u/0/#inbox)" target="_blank">Email</a>**
+- 📫 How to reach me : **<a href="https://mail.google.com/mail/amarthonge6767@gmail.com/0/#inbox" target="_blank">Email</a>**
 
 
 
