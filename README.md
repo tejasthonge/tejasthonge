@@ -1,25 +1,8 @@
-<hr></hr>
-
-### Ram Ram..! 🕉️🙏🚩,I am <h1>Tejas Thonge..!</h1>
-
-- 🔭 I’m currently working on web-project.
-- 🌱 I’m currently learning web-development as well all cooding lan.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX documentetion.
-- 💬 Ask me about tach related stuff.
-- 📫 How to reach me:[linkdin -@Tejas Thonge](https://www.linkedin.com/in/tejas-thonge-patil-b2625b227/) ; [instagram - @amar_thonge_patil](https://www.instagram.com/p/Chu7TjjPMWP/?utm_source=ig_web_copy_link) ; [Facebook -@अमर ठोंगे](https://www.facebook.com/amarraj.thonge)
-- 😄 Pronouns: He/His
-
-<img src="https://github-readme-stats.vercel.app/api?username=tejasthonge&&show_icons=true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-### Snake enating my Contribution..
-![snake gif](https://github.com/tejasthonge/tejasthonge/blob/output/github-contribution-grid-snake.gif)
-<hr></hr>
 
 
 
 
-![Black-Yellow-Geometric-Technolog](https://github.com/DhirajGadekar/DhirajGadekar/assets/111908836/62da340b-767d-4b14-963e-a5cb2ef3cb37)
+![Black-Yellow-Geometric-Technolog]([https://github.com/TejasThonge/D/assets/111908836/62da340b-767d-4b14-963e-a5cb2ef3cb37](https://github.com/tejasthonge))
 
 <h1 align="center">Hi 👋, I'm Tejas Thonge</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
@@ -39,7 +22,7 @@
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/amarraj6767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarraj6767" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in//](https://www.linkedin.com/in/tejasthonge/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-gadekar-9937b7207/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/tejasthonge/](https://www.linkedin.com/in/tejasthonge/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-thonge-9937b7207/" height="30" width="40" /></a>
 <a href="https://instagram.com/amar_rajendra_thonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar_rajendra_thonge" height="30" width="40" /></a>
 
 
