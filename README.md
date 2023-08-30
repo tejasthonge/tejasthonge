@@ -1,7 +1,7 @@
 
 
 
-![Black-Yellow-Geometric-Technolog](https://github.com/TejasThonge/TejasThonge/assets/111908836/62da340b-767d-4b14-963e-a5cb2ef3cb37)
+![Black-Yellow-Geometric-Technolog](https://github.com/TejasThonge/TejasThonge)
 
 <h1 align="center">Hi 👋, I'm Tejas Thonge</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
